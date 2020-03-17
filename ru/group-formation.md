@@ -20,3 +20,7 @@ Cледует помнить, что corejs interview и интервью в epa
 
 Алгоритм распределения студентов по менторам
 Описание - https://github.com/rolling-scopes/rsschool-app/issues/160
+
+
+## Знакомого нет в списке (на курсе)
+https://app.rs.school/registry/student
