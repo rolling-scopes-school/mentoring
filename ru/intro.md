@@ -1,5 +1,6 @@
 # Что такое RSSchool?
-https://docs.rs.school/#/README
+- https://rs.school/  
+- https://docs.rs.school/#/README
 
 ## Основная документация - https://docs.rs.school/#/
 Если вы заметили неточность или хотите обсудить процесс обучения:
@@ -13,6 +14,12 @@ Rolling Scopes School Application, или RS APP, — это open-source пла�
 - Баг-репорты создавать тут - https://github.com/rolling-scopes/rsschool-app/issues
 - Хотите принять участие в разработке? Пишите в telegram @varabei
 
+## Структура курса
+https://docs.rs.school/#/stages
+
+## Процесс менторинга 
+https://docs.rs.school/#/rs-school-mentor
+
 ## Course timeline
 - Старт обучения - 2 февраля. [Расписание занятий](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1641310155) 
 - Регистрация в менторы открыта постоянно - https://app.rs.school/registry/mentor
@@ -20,9 +27,6 @@ Rolling Scopes School Application, или RS APP, — это open-source пла�
 - Рандомное распределение студентов - после 25 марта
 - Проведения интервью с 24 марта по 9 апреля
 - Период менторинга с 25 марта - 15 июля 2020.
-
-## Расписание второго этапа обучения для студентов
-вкладка Stage#2 тут - https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1509181302 
 
 ## Статистика текущего набора:
 1) Week#0 3294 чел 
@@ -44,25 +48,6 @@ Rolling Scopes School Application, или RS APP, — это open-source пла�
 Slack - https://join.slack.com/t/therollingscopes/shared_invite/enQtNDQ0MzgyODAzNDI2LTM4NzVhMzdiODBlMzMyZTA1NGQ3Y2FiZjk3OTEzMTQxNzQ2ZmRiZWUxMjRkZWNmNmE4ZWRkZjBjNDZiOTEwMTg
 Telegram - https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ
 Для студентов https://docs.rs.school/#/rs-school-chats
-
-
-## Процесс менторинга 
-https://docs.rs.school/#/rs-school-mentor
-процесс менторинга, обязанности ментора - https://docs.rs.school/#/rs-school-mentor
-
-Question: В какой срок желательно проверять задания студентов?
-Answer: Чем раньше, тем лучше :) https://docs.rs.school/#/rs-school-mentor?id=Основные-правила-взаимодействия-студентов-и-менторов
-
-Question: Можно ли немного двигать дедлайны студентов своей подгруппы?
-Answer: По объективным причинам вы можете подвинуть дедлайны тасков у своих студентов.
-
-## Дополнительные активности
- Чтение вебинаров
-Чтение лекций 
-RS APP
-
-чтение лекций (по желанию) https://docs.rs.school/#/rs-school-trainer 
-Примеры лекций - https://community-z.com/communities/the-rolling-scopes/events
 
 # FAQ
 Question: Как координируется работа менторов
@@ -107,3 +92,15 @@ GitHub Flow - Issues & PR
 - FAQ
  =====
  
+ ### RS School Mentoring Workflow
+1. [Регистрация в менторы RS School](mentors-wanted.md)
+2. Организационное занятие для менторов 
+3. Рандомное распределение студентов
+     - Описание - https://github.com/rolling-scopes/rsschool-app/issues/160
+3. [Проведение технического скрининга](technical-screening.md)
+4. [Менторинг](mentoring-process.md)
+
+
+Action Items:
+1. Еще раз прочитать https://docs.rs.school/#/rs-school-mentor
+2. Добавить в закладки расписание второго этапа обучения https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1509181302
