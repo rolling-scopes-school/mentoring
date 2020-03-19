@@ -1,18 +1,16 @@
+### Ссылка на запись митинга
+*Будет тут*
+
 # Что такое RSSchool?
 - https://rs.school/  
 - https://docs.rs.school/#/README
+
+## Ваши вопросы - https://docs.google.com/forms/d/e/1FAIpQLSfc_EpVVbuAhuHQnvdYJwxmF0DShhWXYXkn3oaN0PsJKvcy2A/viewform
 
 ## Основная документация - https://docs.rs.school/#/
 Если вы заметили неточность или хотите обсудить процесс обучения:
 1. https://github.com/rolling-scopes-school/docs/issues
 2. https://github.com/rolling-scopes-school/docs/pulls
-
-## RS APP
-Rolling Scopes School Application, или RS APP, — это open-source платформа, используемая в процессе обучения в RS School и разрабатываемая силами активистов сообщества.
-- http://app.rs.school/
-- Репозиторий - https://github.com/rolling-scopes/rsschool-app
-- Баг-репорты создавать тут - https://github.com/rolling-scopes/rsschool-app/issues
-- Хотите принять участие в разработке? Пишите в telegram @varabei
 
 ## Структура курса
 https://docs.rs.school/#/stages
@@ -29,24 +27,20 @@ https://docs.rs.school/#/rs-school-mentor
 - Период менторинга с 25 марта - 15 июля 2020.
 
 ## Статистика текущего набора:
-1) Week#0 3294 чел 
-2) Week#6 1100+ чел  
-3) 180+ менторов 
-4) Страны и города - TBD TBD TBD
+1) Количество студентов - https://app.rs.school/course/score?course=rs-2020-q1
+2) Статистика по таскам - https://app.rs.school/course/admin/tasks?course=rs-2020-q1
 
-## Процесс регистрации в менторы
-1. Ментор оставляет заявку https://app.rs.school/registry/mentor
-2. Координатор подтверждает ассаймент на курс
-3. Ментор потдтверждает участие https://app.rs.school/course/mentor/confirm?course=rs-2020-q1
-
-## Структура курса 
-Описание первого этапа обучения
-Менторинг на втором этапе обучения
+## RS APP
+Rolling Scopes School Application, или RS APP, — это open-source платформа, используемая в процессе обучения в RS School и разрабатываемая силами активистов сообщества.
+- http://app.rs.school/
+- Репозиторий - https://github.com/rolling-scopes/rsschool-app
+- Баг-репорты создавать тут - https://github.com/rolling-scopes/rsschool-app/issues
+- Хотите принять участие в разработке? Пишите в telegram @varabei
 
 ## Общение
 Для менторов:
-Slack - https://join.slack.com/t/therollingscopes/shared_invite/enQtNDQ0MzgyODAzNDI2LTM4NzVhMzdiODBlMzMyZTA1NGQ3Y2FiZjk3OTEzMTQxNzQ2ZmRiZWUxMjRkZWNmNmE4ZWRkZjBjNDZiOTEwMTg
-Telegram - https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ
+- Slack - https://join.slack.com/t/therollingscopes/shared_invite/enQtNDQ0MzgyODAzNDI2LTM4NzVhMzdiODBlMzMyZTA1NGQ3Y2FiZjk3OTEzMTQxNzQ2ZmRiZWUxMjRkZWNmNmE4ZWRkZjBjNDZiOTEwMTg
+- Telegram - https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ
 Для студентов https://docs.rs.school/#/rs-school-chats
 
 # FAQ
@@ -84,10 +78,7 @@ Answer: Да, менторы нужны. Регистрация тут - https:/
 GitHub Flow - Issues & PR 
 
 
-Агенда:  
-- О школе и курсе 
-- Учебный процесс
-- Роль ментора
+
 - Основные правила взаимодействия студентов и менторов
 - FAQ
  =====
@@ -104,3 +95,4 @@ GitHub Flow - Issues & PR
 Action Items:
 1. Еще раз прочитать https://docs.rs.school/#/rs-school-mentor
 2. Добавить в закладки расписание второго этапа обучения https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1509181302
+3. Подтвердить участие в менторинге (если вы этого еще не сделали) - https://app.rs.school/course/mentor/confirm?course=rs-2020-q1
