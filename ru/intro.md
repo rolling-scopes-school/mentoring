@@ -3,6 +3,10 @@
 https://gist.github.com/dzmitry-varabei/40e09addebb01bc2049217b55b1ceaaa
 
 
+===
+- все менторы проводят интервью, минимум 4
+- изначально не отчисляем студентов
+
 
 # Action Items:
 1. Еще раз прочитать https://docs.rs.school/#/rs-school-mentor
