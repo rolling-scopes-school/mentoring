@@ -1,3 +1,6 @@
+# Запись
+https://youtu.be/-eOZgkCHm1U
+
 # Новости
 ### 1. JS Dev Day 2020. Приглашаем всех! 
 https://community-z.com/events/jsdevday2020
