@@ -1,5 +1,5 @@
 # Запись
-WIP
+https://youtu.be/iDRs283n6tE
 
 # Новости
 ### 1. JS Dev Day 2020. Приглашаем всех! 
