@@ -15,6 +15,7 @@
 
 ### Ищу ментора желающего помочь трем студентам в разработке клона игры FTL: Faster Than Light
 Писать в tg @varabei
+- **Upd.** Ментор найден
 
 ### Собираем анонимный фидбек
 [Форма](https://docs.google.com/forms/d/e/1FAIpQLSfc_EpVVbuAhuHQnvdYJwxmF0DShhWXYXkn3oaN0PsJKvcy2A/viewform)
