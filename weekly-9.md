@@ -25,3 +25,5 @@ https://youtu.be/RcLcOd1wE4w
 
 ## Action items для кураторов групп RS Lang
 * При возникновении вопросов по таску, оставлять их в таблице с вопросами и ответами https://docs.google.com/spreadsheets/d/13rqjNCjiTsQw95gfoubgDjUmdotgbIk3J_WxAiHbYBE/edit#gid=0
+* Опросить команду, на сколько необходимо подвинуть дедлайн, чтобы успеть завершить таск
+* В случае изменения состава команд (уход) или возникновения других организационных вопросов касатнльно RS Lang, пишите в tg @pavelrazuvalau 
