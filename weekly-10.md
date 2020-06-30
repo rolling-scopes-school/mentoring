@@ -111,6 +111,11 @@ Samuil Aleksov
 Выступления будут на английском языке.
 Описание докладов и регистрация - https://community-z.com/events/techtalksjs
 
-
+### Новости RS APP
+Огромное спасибо контрибьютерам RS APP [Andrei Palchys](https://github.com/apalchys), [Saken Alimbayev](https://github.com/sakenalimbayev), [Aleh Serhiyenia
+](https://github.com/Pulya10c), [Dzmitry Ramaniuk](https://github.com/DmitryRomaniuk) за имплементацию новых фич и багфиксинг
+- Private repository for all students https://github.com/rolling-scopes/rsschool-app/issues/432
+- Student dashboard https://github.com/rolling-scopes/rsschool-app/pull/447
+- Score table refactoring & bug fixing
 
    
