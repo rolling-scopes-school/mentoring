@@ -14,7 +14,11 @@ https://youtu.be/QFCbeOfcGfU
 https://github.com/rolling-scopes-school/support/issues/80
 
 # Новости RS Lang
-Расскажет Паша Разувалов
+Финализируется описание процесса проверки задания, в том числе презентации проекта
+https://github.com/rolling-scopes-school/tasks/pull/226
+
+Ищем желающих среди менторов/активистов, кто готов принять участие в оценивании презентаций
+https://docs.google.com/forms/d/e/1FAIpQLSeJ6IuSvvdFFxbNCr-xSa14HuObcHONla_JZOGxzVsp93ctKw/viewform
 
 # Новости RS Clone Wars
 Участникам необходимо до 20 июля подготовить лендинг игры или статью на medium:
