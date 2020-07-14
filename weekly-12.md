@@ -29,8 +29,8 @@ https://github.com/rolling-scopes-school/support/issues/80
 
 # Новости RS Lang
 - Ищем желающих среди менторов/активистов, кто готов принять участие в оценивании презентаций
-https://docs.google.com/forms/d/e/1FAIpQLSeJ6IuSvvdFFxbNCr-xSa14HuObcHONla_JZOGxzVsp93ctKw/viewform
-- 
+https://docs.google.com/forms/d/e/1FAIpQLSeJ6IuSvvdFFxbNCr-xSa14HuObcHONla_JZOGxzVsp93ctKw/viewform  
+Описание процесса: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/rslang.md#%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F
 
 # Собеседование по CoreJS
 - с 13 по 27 июля. Если в этот период ментор находится в отпуске - собедование можно провести заранее или до 31 июля.
