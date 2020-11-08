@@ -19,6 +19,7 @@ https://docs.rs.school/#/technical-screening
 - codepen.io
 - https://www.skype.com/en/interviews/
 - https://codepad.remoteinterview.io
+- https://repl.it/
 
 #### Вопрос: Какую информацию о студентах я могу узнать до собеседования?
 - Информацию из профайла студента в RS APP.
