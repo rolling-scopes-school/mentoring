@@ -1,3 +1,7 @@
+#### Запись
+https://youtu.be/NBPQuAHD5Zs
+
+#### Вводное занятие для менторов
 Спасибо за регистрацию в менторы RS School!
 
 Прямо сейчас вам необходимо:
@@ -7,10 +11,6 @@
 Ближайшее рандомное распределение студентов пройдет 9го ноября. [Описание алгоритма тут](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md) Следующее рандомное распределение будет 16 ноября.
 
 C 10 ноября стартует Technical screening - [Описание](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md)
-
-#### Вводное занятие для менторов 
-- 9 ноябре в (16:00 GMT+3). Будет запись для тех, что не сможет присоединиться
-- [Ссылка для подключения](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2NjN2M1ODAtMDQyZi00YmY1LWE1NjctNDJlODQwZTg4ODdk%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22bfb3a45e-ab50-4cee-a085-b5c4a9411d92%22%7d)
 
 #### Еженедельный митинг в MS Teams
 - 30 минут по вторникам (16:00 GMT+3). Участие по желанию. Митинг записывается, конспект митинга сбрасывается в telegram.
@@ -52,10 +52,6 @@ Answer: Да, менторы нужны постоянно. Регистраци
 https://github.com/rolling-scopes-school/mentoring/issues
 
 #### Разбираем ваши вопросы - https://docs.google.com/forms/d/e/1FAIpQLSfc_EpVVbuAhuHQnvdYJwxmF0DShhWXYXkn3oaN0PsJKvcy2A/viewform
-
-### Запись вводного занятие для менторов в марте 2020 (рекомендуется смотреть на скорости х1.5)::
-- [Часть 1](https://youtu.be/lLpv2Fn8t4Y)
-- [Часть 2](https://youtu.be/dTCOrch9g7M)
 
 
 
