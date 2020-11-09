@@ -13,12 +13,15 @@
    - проверка 8 PR (два задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов.
    
 ### Текущий план
+### week#0 до 10 ноября
+[Распределение студентов](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md)
+
 #### week#1 с 10 ноября
   - Вводный инструктаж для менторов, 1 час
-  - [3+ Screening интервью по html/css/algorithms](https://docs.rs.school/#/technical-screening), 4+ часа
+  - [3+ Screening интервью по html/css/algorithms](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md), 4+ часа
   
 #### week#2 с 17 ноября
-   - [1+ Screening интервью по html/css/algorithms](https://docs.rs.school/#/technical-screening), 2 часа
+   - [1+ Screening интервью по html/css/algorithms](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md), 2 часа
    - Проверка 2х Pull Requests по ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md), 2 часа
    - Созвон со студентами (со всеми одновременно), 1 час
         - Знакомство
