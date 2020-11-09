@@ -4,9 +4,9 @@
  - подтвердить вашу регистрацию на курс - https://app.rs.school/course/mentor/confirm?course=js-2020-q3 
  - присоединиться к [telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ) 
  
-Ближайшее рандомное распределение студентов пройдет 9го ноября. [Описание алгоритма тут](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md)
+Ближайшее рандомное распределение студентов пройдет 9го ноября. [Описание алгоритма тут](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md) Следующее рандомное распределение будет 16 ноября.
 
-На следующие неделе стартуют Technical screening - [Описание](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md)
+C 10 ноября стартует Technical screening - [Описание](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md)
 
 #### Вводное занятие для менторов 
 - 9 ноябре в (16:00 GMT+3). Будет запись для тех, что не сможет присоединиться
