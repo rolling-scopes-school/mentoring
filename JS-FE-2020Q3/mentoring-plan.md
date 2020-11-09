@@ -10,7 +10,7 @@
    - прослушивание презентаций студентов 
           - предварительный прогон, 1to1, до 20 минут на одного студента, 2 часа
           - финальная презентация, все студенты одновременно, 1 час
-   - проверка 8 PR (два задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов.
+   - проверка 8 PR (два задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов. Описание процесса - https://docs.rs.school/#/pull-request-review-process
    
 ### Текущий план
 ### week#0 до 10 ноября
@@ -23,6 +23,7 @@
 #### week#2 с 17 ноября
    - [1+ Screening интервью по html/css/algorithms](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/first-interview.md), 2 часа
    - Проверка 2х Pull Requests по ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md), 2 часа
+      - [Процесс проверки PR](https://docs.rs.school/#/pull-request-review-process)
    - Созвон со студентами (со всеми одновременно), 1 час
         - Знакомство
         - Выдача тем презентаций
