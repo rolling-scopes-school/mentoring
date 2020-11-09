@@ -48,6 +48,9 @@ Answer: Да, менторы нужны постоянно. Регистраци
 #### Question: Как можно выйти из менторства?
 - Написать сообщение в telegram @s0nejka
 
+### В случае возникновения какой-либо проблемы вы можете создать issue тут:
+https://github.com/rolling-scopes-school/mentoring/issues
+
 #### Разбираем ваши вопросы - https://docs.google.com/forms/d/e/1FAIpQLSfc_EpVVbuAhuHQnvdYJwxmF0DShhWXYXkn3oaN0PsJKvcy2A/viewform
 
 ### Запись вводного занятие для менторов в марте 2020 (рекомендуется смотреть на скорости х1.5)::
