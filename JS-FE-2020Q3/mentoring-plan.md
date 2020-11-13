@@ -27,6 +27,8 @@
    - Созвон со студентами (со всеми одновременно), 1 час
         - Знакомство
         - Выдача тем презентаций
+            - [Описание задания](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md)
+            - [Список тем](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation-topics.md). Вы можете выдать свою тему.
         - Результаты код ревью ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
         - Ответы на вопросы
 
