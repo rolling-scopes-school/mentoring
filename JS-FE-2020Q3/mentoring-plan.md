@@ -14,7 +14,7 @@
    
 ### Текущий план
 ### week#0 до 10 ноября
-[Распределение студентов](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md)
+   - [Распределение студентов](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md)
 
 #### week#1 с 10 ноября
   - Вводный инструктаж для менторов, 1 час
@@ -30,6 +30,7 @@
             - [Описание задания](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md)
             - [Список тем](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation-topics.md). Вы можете выдать свою тему.
         - Результаты код ревью ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
+        - Консультация по выполнению текущего задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))
         - Ответы на вопросы
 
 #### week#3 с 24 ноября
@@ -37,6 +38,7 @@
    - Созвон со студентами, 1 час
         - Каждый из студентов рассказывает что он делает и какие есть проблемы
         - Результаты код ревью ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
+        - Консультация по выполнению текущего задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))
         - Ответы на вопросы
 
 #### week#4 с 1 декабря
@@ -47,21 +49,22 @@
          - Ответы на вопросы
 
 #### week#5 c 8 декабря 
-   - Проверка 4 PR второго задания, 4 часа
+   - Проверка 4 PR второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md)), 4 часа
    - Созвон со студентами, 1 час 
-         - Прослушивание презентаций 
+         - Прослушивание презентаций  
+         - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
  
 #### week#6 c 15 декабря
    - [2+ интервью по coreJS](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md), 2+ часа
    - Созвон со студентами, 1 час
-           - Результаты код ревью второго задания
+           - Результаты код ревью второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))  
+           - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
 
 #### week#7 c 22 декабря
    - [2+ интервью по coreJS](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md), 2+ часа
    -  Созвон со студентами, 1 час
-         - Консультация по заданию RS Селекторы / RS Clone Wars
-
-
+         - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
+         
 ### Где можно посмотреть расписание? 
 - [Google Doc, вкладка stage#2 2020Q3](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1641310155)
 
