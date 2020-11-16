@@ -8,7 +8,7 @@
 # Что необходимо сделать до 24 ноября:
 1. Закончить проведение [Technical screening](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md#%D0%B4%D0%BE%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
     - Если у вас меньше двух студентов или вы готовы менторить больше - [добрать еще студентов](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md#%D0%B4%D0%BE%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2).
-2. Проверить таск "Игра в пятнашки"
+2. Начать проверку задания "Игра в пятнашки" (Дедлайн - 30 ноября)
     - [Процесс проверки заданий ментором](https://docs.rs.school/#/pull-request-review-process)
     - [Описание задания](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
     - [Сабмит оценки в RS APP](https://app.rs.school/course/mentor/submit-review?course=js-2020-q3)
@@ -24,7 +24,7 @@
             - [Список тем](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation-topics.md). Вы можете выдать свою тему.
         - Обсуждение результатов код ревью ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
         - Рекомендации по выполнению следующего задания
-        - Ответы на вопросы студентов   
+        - Ответы на вопросы студентов 
    
 ### Подробный план менторинга 
  https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/mentoring-plan.md
