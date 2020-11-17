@@ -1,5 +1,5 @@
 ## Запись митинга 
-Ссылка будут тут
+https://youtu.be/e1hVcjYjuYk
 
 # Что уже должно быть сделано:
 1. Сабмитнуты результаты всех проведенных интервью в RS APP https://app.rs.school/course/mentor/interview-technical-screening?course=js-2020-q3
