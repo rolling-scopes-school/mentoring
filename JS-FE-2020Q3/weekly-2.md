@@ -1,3 +1,6 @@
+## Запись
+https://youtu.be/UlS9Vb3xmvM
+
 # Что уже должно быть сделано:
 1. Проведен [Technical screening](https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/how-to-get-mentees.md#%D0%B4%D0%BE%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
     - Сабмитнуты результаты всех интервью https://app.rs.school/course/mentor/interview-technical-screening?course=js-2020-q3
