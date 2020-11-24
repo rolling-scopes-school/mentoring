@@ -42,10 +42,9 @@
         - Ответы на вопросы
 
 #### week#4 с 1 декабря
-   -  Предварительное прослушивание презентации 1to1, ответы на вопросы, до 2 часов
    -  Созвон со студентами, 1 час
          - Каждый из студентов рассказывает что он делает и какие есть проблемы
-         - Помощь в выполнение второго задания
+         - Помощь в выполнение второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))
          - Ответы на вопросы
 
 #### week#5 c 8 декабря 
