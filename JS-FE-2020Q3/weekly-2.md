@@ -12,7 +12,11 @@
     - [Процесс проверки заданий ментором](https://docs.rs.school/#/pull-request-review-process)
     - [Описание задания](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
     - [Сабмит оценки в RS APP](https://app.rs.school/course/mentor/submit-review?course=js-2020-q3)
-2. Провести очередную еженедельную встречу со своими студентами
+2. Провести очередную еженедельную встречу со своими студентами. План встречи:
+     - Каждый из студентов рассказывает что он делает и какие есть проблемы
+     - Результаты код ревью ["Игра в пятнашки"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
+     - Консультация по выполнению текущего задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))
+     - Ответы на вопросы
 
 ## FAQ
 ### Как оценивается работа студента, если в тексте задания было запрещено использование какой-либо технологии (или фреймворка/библиотеки), но студент использовал эту технологию при выполнении свой работы?  
@@ -28,6 +32,3 @@
 - Менторский slack. Дополнительный канал связи для менторов. Использовать по желанию.
 https://join.slack.com/t/therollingscopes/shared_invite/zt-5o5a1plu-OHWje4DjMuBU18q_l5ExQQ
 - Обсуждаем stage#0. https://github.com/rolling-scopes-school/tasks/pull/288
-
-## План менторинга на курсе 2020Q3  
- https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2020Q3/mentoring-plan.md
