@@ -7,10 +7,8 @@
 **Активности ментора**:
    - проведение минимум 4 интервью по html/css/algorithms (суммарная нагрузка до 6 часов)
    - проведение 2-4 интервью по coreJS (суммарная нагрузка до 6 часов)
-   - прослушивание презентаций студентов 
-          - предварительный прогон, 1to1, до 20 минут на одного студента, 2 часа
-          - финальная презентация, все студенты одновременно, 1 час
-   - проверка 8 PR (два задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов. Описание процесса - https://docs.rs.school/#/pull-request-review-process
+   - прослушивание презентаций студентов, 1 час
+   - проверка ~10 PR (три задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов. Описание процесса - https://docs.rs.school/#/pull-request-review-process
    
 ### Текущий план
 ### week#0 до 10 ноября
@@ -42,27 +40,34 @@
         - Ответы на вопросы
 
 #### week#4 с 1 декабря
+   - Промежуточное code review ["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md)
    -  Созвон со студентами, 1 час
          - Каждый из студентов рассказывает что он делает и какие есть проблемы
          - Помощь в выполнение второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))
+         - [Формирование команд из 2-3 чел для задания COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
          - Ответы на вопросы
 
 #### week#5 c 8 декабря 
    - Проверка 4 PR второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md)), 4 часа
-   - Созвон со студентами, 1 час 
-         - Прослушивание презентаций  
+   - Созвон со студентами, 1 час  
          - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
  
 #### week#6 c 15 декабря
    - [2+ интервью по coreJS](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md), 2+ часа
+   - Промежуточное code review [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
    - Созвон со студентами, 1 час
            - Результаты код ревью второго задания (["RS Selectors"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rs-css.md) или ["English for kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md))  
            - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
 
 #### week#7 c 22 декабря
    - [2+ интервью по coreJS](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md), 2+ часа
+   -  Сode review задания [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
    -  Созвон со студентами, 1 час
-         - Консультация по заданию [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
+         - Результаты code review [COVID-19 Dashboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md)
+         - Консультация по заданию RS Clone Wars
+               
+#### c 4 до 17 января
+   - Прослушивание и выставление оценок по [презентациям](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md), 1 час
          
 ### Где можно посмотреть расписание? 
 - [Google Doc, вкладка stage#2 2020Q3](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1641310155)
