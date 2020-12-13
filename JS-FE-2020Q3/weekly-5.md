@@ -19,3 +19,6 @@ A Можно хайрить студента в любое время
 =======
 По вашим просьбам создал отдельный канала для размещения анонсов по менторингу
  https://t.me/joinchat/AAAAAEastoI-SMHaaethdA
+======
+Школа стримеров
+https://docs.google.com/forms/d/e/1FAIpQLSfQ_yVz6ZrAdmSK8N7Gy_EQ5y6bh1ySpdBaUyTfvD2G1wsWEg/viewform
