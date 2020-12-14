@@ -31,3 +31,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSfQ_yVz6ZrAdmSK8N7Gy_EQ5y6bh1ySpdBaUyTf
 - Telegram для менторов https://t.me/joinchat/HqpGRxMvLcMcYRlMSfc4EA
 - Черновик расписания https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1842379604
 - Регистрация https://app.rs.school/registry/mentor?course=react-2021-q1
+========
+4. можно на будущее сказать менторам, что выставляется только одна лучшая оценка, даже если тасков сделано два?
