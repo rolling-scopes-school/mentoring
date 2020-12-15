@@ -68,4 +68,8 @@ https://t.me/joinchat/AAAAAEastoI-SMHaaethdA
 - Черновик расписания https://github.com/rolling-scopes-school/lectures/blob/master/Angular/angular-course.md
 - Регистрация https://app.rs.school/registry/mentor?course=angular-2021q1
 
+### Менторинг по corejs/fe на английском 
+- старт в феврале
+- регистрация https://app.rs.school/registry/mentor?course=js-fe-en
+
 
