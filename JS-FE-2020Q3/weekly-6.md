@@ -1,3 +1,6 @@
+## Запись
+- Ссылка будет тут
+
 ## Что необходимо сделать до 15 января:
 - Сабмитнуты результаты CoreJS интервью https://app.rs.school/course/mentor/interview-technical-screening?course=js-2020-q3
 - Сабмитнуть оценки студентов https://app.rs.school/course/mentor/submit-review?course=js-2020-q3
