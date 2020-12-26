@@ -1,5 +1,5 @@
 ## Запись
-- Ссылка будет тут
+- https://youtu.be/0a4TQ13KPqQ
 
 ## Что необходимо сделать до 15 января:
 - Сабмитнуты результаты CoreJS интервью https://app.rs.school/course/mentor/interview-technical-screening?course=js-2020-q3
