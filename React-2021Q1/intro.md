@@ -3,7 +3,9 @@
 1. Подтвердить участие в менторинге (если вы этого еще не сделали) - https://app.rs.school/course/mentor/confirm?course=react-2021-q1
 
 # MFU
-### Ссылка на запись митинга будет здесь:
+### Ссылка на запись митинга:
+
+https://drive.google.com/file/d/1B_XdUo1tgQOS0js9Wyo1svOEGW4zkrrj/view?usp=sharing
 
 # Что такое RSSchool?
 - https://rs.school/  
