@@ -3,8 +3,8 @@
 
 ### Спасибо за регистрацию в менторы RS School!
 #### Прямо сейчас вам необходимо:
- - подтвердить вашу регистрацию на курс - https://app.rs.school/course/mentor/confirm?course=js-fe-2021Q1 (Можно сабмитать несколько раз, сохраняется последний вариант)
- - присоединиться к [telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ)  
+  - [ ] 🔥 подтвердить вашу регистрацию на курс - https://app.rs.school/course/mentor/confirm?course=js-fe-2021Q1 (Можно сабмитать несколько раз, сохраняется последний вариант)
+  - [ ] 🔥 присоединиться к [telegram для менторов](https://t.me/joinchat/HqpGRxNRANkGN2xx9bL8zQ)  
 
 ### О менторинге
 #### Продолжительность менторинга
@@ -17,7 +17,7 @@
    - проверка ~10 PR (три задания), обсуждение результатов со студентами. Суммарная нагрузка 8-10 часов. Описание процесса - https://docs.rs.school/#/pull-request-review-process
 
 #### Процесс менторинга
-https://docs.rs.school/#/rs-school-mentor
+- [ ] 🔥 Прочитать о процессе менторинга можно тут https://docs.rs.school/#/rs-school-mentor
 - В чем заключается менторинг в RS School?
 - Дополнительные активности менторов
 - Джентльменское соглашение
@@ -31,7 +31,8 @@ https://docs.rs.school/#/rs-school-mentor
 - Следующее рандомное распределение будет 4 мая и 11 мая.
 
 ### Первое собеседование со студентами
-Cтарт собеседований - 28 апреля. [Описание](first-interview.md)
+- [ ] 🔥 Вам необходимо провести собеседования в период с 28 апреля по 17 мая
+- [Описание](first-interview.md)
 
 ### Еженедельный митинг в MS Teams
 - 30 минут по вторникам (16:00 GMT+3; 13:00 UTC). Участие по желанию. Митинг записывается, конспект митинга сбрасывается в telegram.
@@ -51,6 +52,46 @@ Cтарт собеседований - 28 апреля. [Описание](first
     - 7050 чел на старте
     - 2100 чел после 2х недель
     - 1170 чел после 2х месяцев
+
+#### Что студенты уже изучали (Февраль - Апрель, 2021)
+<details>
+  <summary> Список заданий </summary>
+  
+#### Git
+- https://github.com/rolling-scopes-school/tasks/blob/master/tasks/git-markdown.md
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/clean-code-s1e1
+
+#### Верстка
+- https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css
+- https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/wildlife
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-1
+
+#### Алгоритмы
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/codewars
+- https://github.com/AlreadyBored/basic-js
+- https://github.com/rkhaslarov/rs-school-short-track-2021
+- и другие 
+
+#### DOM
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter
+
+#### Clean Code
+  - https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/clean-code-s1e1
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/guidelines/generic-principles
+
+#### Self-Presentation 
+- https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/self-introduction/self-introduction
+
+#### JavaScript
+- Типы данных
+- Объекты
+- Массивы
+- Функции
+</details>
+
+#### Требования к Junior 
+- https://docs.google.com/spreadsheets/d/1lTPeR2Ny9ZiO2XUEoX1Et_K4wh47h5YTdHUk5MJNbrE/edit?usp=sharing
 
 ### Менторская футболка 
 По окончанию менторинга вы получаете футболку, если в течение курса вы:
@@ -72,7 +113,7 @@ Cтарт собеседований - 28 апреля. [Описание](first
 
 ### FAQ
 #### Question: Нужны ли еще менторы?
-Answer: Да, менторы нужны постоянно. Регистрация тут - https://app.rs.school/registry/mentor
+Answer: Да, менторы нужны постоянно. 🔥 Регистрация тут - https://app.rs.school/registry/mentor
 
 #### Question: Не успеваю провести CoreJS Interview или Technical screening. Что делать?
 - Вам необходимо предупредить студентов о задержке
@@ -82,6 +123,12 @@ Answer: Да, менторы нужны постоянно. Регистраци
 
 #### Question: Как можно выйти из менторства?
 - Написать сообщение в telegram @s0nejka или @varabei или @ValeryDl
+
+#### Question: Где можно добрать еще студентов?
+Если вы хотите взять себе еще одного студента для интервью:
+- Открываете https://app.rs.school/course/mentor/interview-students?course=js-fe-2021Q1
+- Нажимаете "Want To Interview"
+- Ментор сам связывается со студентом (так как в PS APP отсутствует механизм нотификации)
 
 #### Где можно посмотреть расписание? 
 - [Google Doc, вкладка RS 2021Q1](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1646898206)
