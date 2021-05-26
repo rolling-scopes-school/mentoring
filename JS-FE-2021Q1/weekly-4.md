@@ -20,7 +20,6 @@ https://community-z.com/events/jsdevday-2021
 
 # Что необходимо сделать до 1 июня:
 1. Провести code review ["Match-match game"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md)
-    - [Cабмитнуть оценку в RS APP](https://app.rs.school/course/mentor/submit-review?course=js-fe-2021Q1)
 2. Провести очередную еженедельную встречу со своими студентами. План встречи:
     - Каждый из студентов рассказывает что он делает и какие есть проблемы
     - Результаты код ревью / Помощь в выполнение ["Match-match game"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md)
