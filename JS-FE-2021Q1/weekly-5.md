@@ -1,5 +1,5 @@
 ### 01 - JUNE - 2021
-Запись: ссылка будет тут
+Запись: https://youtu.be/ao7pu4-tY5E
 
 ### Информация для тех, кто зарегистрировался на менторинг после 27 апреля:
 https://github.com/rolling-scopes-school/mentoring/blob/master/JS-FE-2021Q1/welcome.md
