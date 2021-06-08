@@ -1,5 +1,5 @@
 ### 08 - JUNE - 2021
-Запись: Будет тут
+Запись: https://youtu.be/4yj1MXDrUdU
 
 # Новости
 - Мигрируем расписание в https://app.rs.school/course/schedule2?course=js-fe-2021Q1
