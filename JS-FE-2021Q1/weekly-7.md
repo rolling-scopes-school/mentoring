@@ -1,5 +1,5 @@
 ### 15 - JUNE - 2021
-Запись: будет позже 
+Запись: https://youtu.be/V5NfrkdY-ow 
 
 # Новости
 - Дедлайн по ["Async-race"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md) подвинут на двое суток.
