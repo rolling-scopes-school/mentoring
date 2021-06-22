@@ -5,7 +5,7 @@
 #### 1. Задание Async-race
 Закончен cross-check по ["Async-race"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md). Оценки в score 
 
-#### 2. Ищем жюри для оценки задания 'Presentation (recorded)' 
+#### 2. Ищем жюри для оценки задания 'Presentation (online)' 
 - Записаться можно на вкладке Jury https://docs.google.com/spreadsheets/d/1mQtnjB5Gw5l384aycSRNLrdal5TMZfN4XxAsG8DKNzk/edit#gid=528673971
 - Чат для обсуждения - https://t.me/joinchat/an5fAV8PrM8xNDgy 
 - Вопросы можно задать Алене в TG  @missis_sippi
