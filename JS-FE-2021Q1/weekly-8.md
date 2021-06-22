@@ -6,13 +6,13 @@
 Закончен cross-check по ["Async-race"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md). Оценки в score 
 
 #### 2. Ищем жюри для оценки задания 'Presentation (recorded)' 
-Записаться можно на вкладке Jury https://docs.google.com/spreadsheets/d/1mQtnjB5Gw5l384aycSRNLrdal5TMZfN4XxAsG8DKNzk/edit#gid=528673971
-Чат для обсуждения - https://t.me/joinchat/an5fAV8PrM8xNDgy 
-Вопросы можно задать Алене в TG  @missis_sippi
+- Записаться можно на вкладке Jury https://docs.google.com/spreadsheets/d/1mQtnjB5Gw5l384aycSRNLrdal5TMZfN4XxAsG8DKNzk/edit#gid=528673971
+- Чат для обсуждения - https://t.me/joinchat/an5fAV8PrM8xNDgy 
+- Вопросы можно задать Алене в TG  @missis_sippi
 
 #### 3. Помощь студентам из waitlist
-Более 10 студентов с хорошей успеваемость ждут ментора.
-Если у вас есть возможность помочь, добрать их можно тут https://app.rs.school/course/mentor/interview-students?course=js-fe-2021Q1
+Более 10 студентов с хорошей успеваемость ждут ментора.  
+Если у вас есть возможность помочь, добрать их можно тут https://app.rs.school/course/mentor/interview-students?course=js-fe-2021Q1  
 Не забудьте первыми написать студенту.
 
 # Что необходимо сделать до 29 июня:
