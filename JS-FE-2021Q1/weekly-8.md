@@ -1,5 +1,5 @@
 ### 22 - JUNE - 2021
-Запись: будет тут.
+Запись: https://youtu.be/R7maOjf9sMI
 
 # Новости
 #### 1. Задание Async-race
