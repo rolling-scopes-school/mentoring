@@ -1,5 +1,5 @@
 ### 29 - JUNE - 2021
-Запись: Будет тут
+Запись: https://youtu.be/BcfZ27wRjeg
 
 # Новости
 1. У студентов изменились дедлайны по Chess и English-for-kids. Детали расскажет Ivan Alekseev 
