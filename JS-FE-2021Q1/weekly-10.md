@@ -1,5 +1,5 @@
 ### 06 - JULY - 2021
-Запись: TBD
+Запись: https://youtu.be/eRk76r2gJmQ
 
 # Новости
 1. Вчера стартанул подготовительный этап https://rs.school/js-stage0/
