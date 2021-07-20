@@ -2,7 +2,7 @@
 Запись: TBD
 
 # Что необходимо сделать 
-Записаться на следующий тираж маек RS School Mentor:
+### Записаться на следующий тираж маек RS School Mentor:
 - [Беларусь](https://docs.google.com/forms/d/e/1FAIpQLSclE_N_z9W3IgwAxJhDQW_sXFA4EbQ46ab6wKw0Bd-ogEIYmQ/viewform)
 - [Россия, Украина, Казахстан, Узбекистан, Польша](https://docs.google.com/forms/d/e/1FAIpQLSeCHKL5F2bjlsrKPJzgIlVofsFzhP0W_haAItouYnRolXiq_g/viewform)
 - Срок доставки: 3-5 месяцев.
@@ -16,6 +16,12 @@
 6. Проведен code review и сабмитнута оценка по ["English-for-kids"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md)
 
 # Новости
+#### Cертификаты о прохождении stage#2
+Выдача сертификатов stage#2 - 27 июля.  
+Требования:
+- Общее количество баллов - 55% от результата TOP1 студента на курсе.
+- Оценка за CoreJS Interview - 4+
+
 #### 2 августа старт курса «Node.js и AWS»
   - https://rs.school/nodejs-aws/
   - https://app.rs.school/registry/student?course=aws-2021
